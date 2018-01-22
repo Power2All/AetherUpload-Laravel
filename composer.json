@@ -1,11 +1,6 @@
 {
-  "name": "peinhu/aetherupload-laravel",
-  "description": "Upload large files for Laravel 上传 大文件 laravel包",
-  "keywords": [
-    "大文件",
-    "large",
-    "big"
-  ],
+  "name": "power2all/aetherupload-laravel",
+  "description": "Upload large files for Laravel",
   "license": "GPL-2.0",
   "authors": [
     {
